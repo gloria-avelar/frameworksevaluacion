@@ -1,0 +1,23 @@
+#izq {
+  background-color: #c5cae9;
+}
+#izq img {
+height: 50px;
+}
+
+#dr {
+  background-color:#b2dfdb;
+}
+#dr img{
+  height: 200px;
+}
+header {
+  background-color: #7986cb;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+body{
+  background-color: #e8eaf6
+}

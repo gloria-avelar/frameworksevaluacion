@@ -1,0 +1,39 @@
+.container {
+  width: 100%;
+}
+header{
+  width: 100%;
+  background-color: #7986cb;
+}
+#articulos {
+  background-color: #b2dfdb;
+}
+a img {
+ width: 40px
+}
+nav{
+  background-color: #c5cae9;
+  text-align: center;
+}
+#inicio {
+  background-color: #7986cb;
+}
+#sia {
+  width: 200px;
+}
+#chabuca {
+  width: 200px;
+}
+#buscador {
+  margin-top: 20%
+}
+button {
+  background-color: #c5cae9;
+}
+
+body{
+  background-color: #e8eaf6;
+}
+a{
+  color:#80deea;
+}
